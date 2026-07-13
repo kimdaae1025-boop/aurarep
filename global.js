@@ -15,7 +15,7 @@
     "vmflaldjaahf2.imweb.me",
     "localhost",
     "127.0.0.1",
-    "aura1payy.netlify.app",
+    "clinquant-gumdrop-a989bf.netlify.app",
   ];
 
   if (
@@ -40,7 +40,7 @@
   );
 
   // --- Hosted Domain Detect ---
-  let hostedDomain = "https://aura1payy.netlify.app";
+  let hostedDomain = "clinquant-gumdrop-a989bf.netlify.app";
   try {
     if (document.currentScript && document.currentScript.src) {
       const scriptUrl = new URL(document.currentScript.src);
