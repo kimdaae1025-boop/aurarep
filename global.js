@@ -14,6 +14,7 @@
     "xn--oi2b94xh5a.shop",
     "vmflaldjaahf2.imweb.me",
     "auraa.shop",
+    "www.auraa.shop",
     "localhost",
     "127.0.0.1",
     "clinquant-gumdrop-a989bf.netlify.app",
